@@ -1,0 +1,11 @@
+.ficha-turno {
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: 12px;
+    margin-bottom: 12px;
+}
+
+.ficha-turno--urgente {
+    border-color: #d33;
+    background-color: #fff5f5;
+}
