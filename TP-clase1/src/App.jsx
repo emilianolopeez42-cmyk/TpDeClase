@@ -3,9 +3,14 @@ import FichaDeTurno from './Componentes/FichaDeTurnos/FichaDeTurno'
 import './Componentes/FichaDeTurnos/FichaDeTurno.css'
 
 
+
+
 export default function App() {
   return (
     <div>
+
+
+
 
       <FichaDeTurno cargando={true} />
       <FichaDeTurno error={true} />
