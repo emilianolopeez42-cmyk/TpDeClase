@@ -9,9 +9,6 @@ export default function App() {
   return (
     <div>
 
-
-
-
       <FichaDeTurno cargando={true} />
       <FichaDeTurno error={true} />
       <FichaDeTurno turno={null} />
